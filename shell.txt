@@ -1,0 +1,10 @@
+total 6
+drwxr-xr-x 1 hiiro 197609   0  5月  4 19:21 .
+drwxr-xr-x 1 hiiro 197609   0  4月 28 11:14 ..
+-rw-r--r-- 1 hiiro 197609  47  4月 28 15:00 cgengo.c
+-rw-r--r-- 1 hiiro 197609 867  4月 27 18:42 fruits.php
+-rw-r--r-- 1 hiiro 197609 201  4月 27 18:40 ichigo.php
+-rw-r--r-- 1 hiiro 197609 199  4月 27 18:40 momo.php
+-rw-r--r-- 1 hiiro 197609 280  4月 27 18:43 result.php
+-rw-r--r-- 1 hiiro 197609   0  5月  4 19:22 shell.txt
+-rwxr-xr-x 1 hiiro 197609 136  5月  4 19:22 test.sh
